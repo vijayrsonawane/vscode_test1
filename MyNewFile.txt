@@ -1,2 +1,3 @@
 Hello my first commit from vs code !! 
-Hurrey !!
+Hurrey !! 
+My new line addition
